@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suyash Gholap</h1>
 <h3 align="center">A passionate fullstack developer and Cybersecurity Expert from India</h3>
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/suyashgholap"><b>@suyashgholap</b></a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/suyashgholap" target="_blank"><b>@suyashgholap</b></a>
 
 - 💬 Ask me about **Springboot, Cybersecurity, Java**
 
@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/suyash-gholap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyash-gholap" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/suyashsgholap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suyashsgholap" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suyash-gholap" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyash-gholap" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/suyashsgholap" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suyashsgholap" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
