@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suyash Gholap</h1>
 <h3 align="center">A passionate fullstack developer and Cybersecurity Expert from India</h3>
 
-- 👨‍💻 All of my projects are available at [github.com/suyashgholap](github.com/suyashgholap)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/suyashgholap"><b>@suyashgholap</b></a>
 
 - 💬 Ask me about **Springboot, Cybersecurity, Java**
 
