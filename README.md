@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Suyash Gholap</h1>
 <h3 align="center">A passionate fullstack developer and Cybersecurity Expert from India</h3>
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/suyashgholap" target="_blank"><b>@suyashgholap</b></a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/suyashgholap?tab=repositories" target="_blank"><b>@suyashgholap</b></a>
 
 - 💬 Ask me about **Springboot, Cybersecurity, Java**
 
 - 📫 How to reach me **suyashsgholap@gmail.com**
 
-- 📛 Check my Achievement in **https://www.credly.com/users/suyash-gholap**
+- 📛 Check my Achievement in <a href="https://www.credly.com/users/suyash-gholap" target="_blank"><b>CREDLY.COM</b></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
